@@ -1,1 +1,0 @@
-# covid19_info.github.io
